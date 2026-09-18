@@ -104,7 +104,7 @@ Use these folders to explore how changes in electrical or thermal conductivity i
 
 ## 🏷 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE).
 
 ---
 
@@ -118,3 +118,6 @@ This project is licensed under the [MIT License](LICENSE).
 > Retrieved from: <GitHub Repository URL>
 > ```
 
+## License scope
+
+Original INQUIRE Lab code is licensed under PolyForm Noncommercial License 1.0.0. Original INQUIRE Lab datasets, figures, and documentation are licensed under CC BY-NC 4.0. See [LICENSE](LICENSE) for scope and the full license texts. Materials from other rights holders retain their original terms.
